@@ -1,8 +1,6 @@
 # Admin panel and UI Components for Angular.
 
-Start your own Angular project with ng-dashboard in minutes!
-
-## Demo
+Start your own Angular project with dashboard in minutes!
 
 ## How to start
 

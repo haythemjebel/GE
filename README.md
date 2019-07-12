@@ -11,7 +11,7 @@ You will need to clone the source code of ng-dashboard GitHub repository.
 After the repository is cloned, go inside of the repository directory and install dependencies:
 
 ```
-cd dashboard
+cd GE
 npm install
-npm start
+ng s
 ```
